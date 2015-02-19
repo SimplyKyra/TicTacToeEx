@@ -31,7 +31,9 @@ namespace TicTacToe
 
         }
 
+        //
         // HELPER Functions
+        //
 
         /// <summary>
         /// Switch the current player
